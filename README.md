@@ -1,4 +1,4 @@
-# StancePers
+# StancePers (Cross-lingual Stance Detection using Multi-task Learning)
 </br>
 This is the accompanying repository of our "Cross-lingual Stance Detection" paper submitted to <a href="https://www.journals.elsevier.com/neurocomputing">Neurocomputing journal</a>.
 
