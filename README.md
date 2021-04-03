@@ -28,7 +28,7 @@ This is the accompanying repository of our "Cross-lingual Stance Detection" pape
 ## Code
 All experimens were run in a <a href="https://colab.research.google.com">Colab Environment</a> which offers free GPUs.
 <a href="https://colab.research.google.com/drive/1_2kx3Z1rN65vWmNM2f59dd1QXVlGar5f?usp=sharing">MTL</a> and <a href="https://colab.research.google.com/drive/1uxxCExSbAcRo_0rMrns0l-uNjELwqsoj?usp=sharing">Base</a> are links to our saved colab notebooks.
-A list of all currently-installed packages on Colab can be found in requirements.txt in the docker folder (unnecessary packages for running the notebooks on docker are commented out).
+A list of all currently-installed packages on Colab can be found in <a href="https://github.com/ssabzzz/StancePers/blob/main/docker/requirements.txt">requirements.txt</a> in the docker folder (unnecessary packages for running the notebooks on docker are commented out).
  
 ## Contact
 Please send us an email if you have further questions or to request dataset. 

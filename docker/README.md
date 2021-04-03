@@ -15,7 +15,9 @@ This builds an image from the dockerfile that you need to run using:
 docker run -p 8888:8888 stancepers
   ```
 Make sure that port `8888` on your host machine is not already allocated. The command above will start a JupyterLab enviroment in which you can run the notebooks.
-## Caution
-Start with a small `BATCH_SIZE` to make sure it won't eat up all of your RAM space.
+## Configuration
+* Start with a small `BATCH_SIZE` to make sure it won't eat up all of your RAM space.
+* Replace `<FILE_ID>` as instructed  <a href="https://github.com/ssabzzz/StancePers/blob/main/README.md#dataset">here</a>.
+
 
 
