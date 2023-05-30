@@ -1,6 +1,6 @@
 # StancePers (Cross-lingual Stance Detection using Multi-task Learning)
 </br>
-This is the accompanying repository of our "Cross-lingual Stance Detection" paper submitted to <a href="https://www.journals.elsevier.com/expert-systems-with-applications">Expert Systems with Applications journal</a>.
+This is the accompanying repository of our "Cross-lingual Stance Detection using Multi-task Learning" paper.
 
 ## Project Structure
 ```sh
